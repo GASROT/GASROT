@@ -5,7 +5,7 @@
 
 
 <p align="center" >
-  💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b>FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;
+  💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b>FULL-STACK DEVELOPER &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;
 </p>
 
 
