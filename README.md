@@ -53,7 +53,7 @@ Gosto de transformar ideias em produtos funcionais, cuidando tanto da experiênc
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" width="60" alt="Expo">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="60" alt="REST API">
 </div>
- 
+
 ##
 
 ### Linguagens
@@ -114,12 +114,18 @@ Projeto IoT voltado ao monitoramento e à automação de estufas agrícolas. A s
 
 Estou em constante evolução como desenvolvedor e busco oportunidades para aplicar meus conhecimentos em projetos reais, colaborar com equipes de tecnologia e crescer profissionalmente em desenvolvimento full stack, engenharia de software e arquitetura de sistemas.
 
-## GitHub em números
+## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GASROT&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GASROT&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GASROT&theme=github_dark" alt="Resumo do perfil GitHub">
 </div>
+
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GASROT&theme=github_dark" alt="Linguagens mais utilizadas nos repositórios">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GASROT&theme=github_dark" alt="Linguagens mais utilizadas nos commits">
+</div>
+
+
 
 ## Contato
 
@@ -129,6 +135,6 @@ Estou em constante evolução como desenvolvedor e busco oportunidades para apli
   </a>
 </p>
 
-<!-- Quando tiver o link real, adicione aqui seu LinkedIn e e-mail profissional. -->
+
 
 > Construindo soluções com código limpo, aprendizado constante e foco em impacto real.
