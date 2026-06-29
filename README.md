@@ -14,21 +14,14 @@
   bancos de dados e soluções com foco em usabilidade, organização e evolução contínua.
 </p>
 
-<p align="center">
-  <a href="https://github.com/GASROT">
-    <img src="https://img.shields.io/badge/GitHub-GASROT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
----
+
+
 
 ## Sobre mim
 
 Sou desenvolvedor Full Stack em formação, com foco na criação de aplicações web escaláveis, bem estruturadas e orientadas à solução de problemas reais. Tenho experiência com desenvolvimento front-end usando React e Next.js, construção de APIs com Node.js, Express e NestJS, além de modelagem e integração com bancos de dados relacionais e não relacionais.
 
-Gosto de transformar ideias em produtos funcionais, cuidando tanto da experiência do usuário quanto da qualidade interna do código. Tenho interesse especial por arquitetura de sistemas, integração entre software e hardware, automação de processos e desenvolvimento de soluções que conectem tecnologia com impacto prático.
-
-Também desenvolvo minha base em estatística aplicada e estrutura de dados, usando esses conhecimentos para interpretar dados, apoiar decisões técnicas e construir soluções mais eficientes, organizadas e orientadas por evidências.
 
 ## Principais competências
 
@@ -103,29 +96,14 @@ Também desenvolvo minha base em estatística aplicada e estrutura de dados, usa
 
 **Estrutura de dados, algoritmos, programação orientada a objetos e estatística aplicada** para resolução de problemas, organização de informações, análise de métricas e desenvolvimento de soluções mais consistentes.
 
-## Projeto em Destaque
 
-### AgroTech - Estufa Inteligente com Full Stack, Mobile e IoT
 
-Projeto IoT voltado ao monitoramento e à automação de estufas agrícolas. A solução integra firmware embarcado em ESP32, backend, aplicação web e aplicativo mobile para acompanhar variáveis do cultivo em tempo real e controlar atuadores da estufa.
-
-- **Front-end Web:** React, TypeScript, Vite, Tailwind CSS, Axios e Lucide React, com dashboard para visualização de estufas, sensores, alertas, atuadores e métricas.
-- **Mobile:** React Native com Expo, TypeScript, AsyncStorage, Axios e Socket.IO Client, permitindo acompanhamento das estufas pelo celular.
-- **Back-end:** Node.js, TypeScript, Express, Prisma, JWT, Socket.IO, MQTT, Zod e Winston, centralizando autenticação, regras de negócio, telemetria, alertas e comunicação em tempo real.
-- **Banco de dados e infraestrutura:** PostgreSQL para dados relacionais, InfluxDB para séries temporais, Redis para cache/estado e Docker para orquestração dos serviços.
-- **IoT/Firmware:** ESP32 com PlatformIO e Arduino Framework, integrado via MQTT para leitura de sensores e controle de atuadores.
-- **Sensores e atuadores:** DHT11, LM35DZ, sensor de umidade do solo P23, LDR, bomba d'água, exaustor e iluminação artificial.
-- **Diferenciais:** Monitoramento em tempo real, automação local da estufa, controle de atuadores, alertas operacionais, dashboards web/mobile e arquitetura centralizada pelo backend.
-
-## O que estou buscando
-
-Estou em constante evolução como desenvolvedor e busco oportunidades para aplicar meus conhecimentos em projetos reais, colaborar com equipes de tecnologia e crescer profissionalmente em desenvolvimento full stack, engenharia de software e arquitetura de sistemas.
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GASROT&theme=github_dark" alt="Resumo do perfil GitHub">
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GASROT&theme=github-dark-blue" alt="Sequência de contribuições no GitHub">
+</p>
 
 <div align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GASROT&theme=github_dark" alt="Linguagens mais utilizadas nos repositórios">
