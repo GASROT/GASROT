@@ -28,12 +28,15 @@ Sou desenvolvedor Full Stack em formação, com foco na criação de aplicaçõe
 
 Gosto de transformar ideias em produtos funcionais, cuidando tanto da experiência do usuário quanto da qualidade interna do código. Tenho interesse especial por arquitetura de sistemas, integração entre software e hardware, automação de processos e desenvolvimento de soluções que conectem tecnologia com impacto prático.
 
+Também desenvolvo minha base em estatística aplicada e estrutura de dados, usando esses conhecimentos para interpretar dados, apoiar decisões técnicas e construir soluções mais eficientes, organizadas e orientadas por evidências.
+
 ## Principais competências
 
 - Desenvolvimento de interfaces responsivas, modernas e focadas em experiência do usuário.
 - Criação de APIs REST, organização em camadas e aplicação de boas práticas de arquitetura.
 - Integração com bancos de dados, ORMs e serviços externos.
 - Fundamentos sólidos em lógica de programação, estruturas de dados e programação orientada a objetos.
+- Conhecimentos em estatística aplicada, análise de dados e interpretação de métricas para apoiar decisões em projetos.
 - Experiência acadêmica e prática com projetos full stack, IoT e integração em tempo real.
 - Perfil analítico, colaborativo e comprometido com aprendizado contínuo.
 
@@ -95,6 +98,10 @@ Gosto de transformar ideias em produtos funcionais, cuidando tanto da experiênc
 </p>
 
 **ESP32, MQTT, Git, GitHub, VS Code, Figma, Postman e Linux** para integração com hardware, versionamento, prototipação, testes de API e ambiente de desenvolvimento.
+
+### Fundamentos e análise
+
+**Estrutura de dados, algoritmos, programação orientada a objetos e estatística aplicada** para resolução de problemas, organização de informações, análise de métricas e desenvolvimento de soluções mais consistentes.
 
 ## Projeto em Destaque
 
